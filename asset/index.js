@@ -1,3 +1,3 @@
-var slideIndex = 0;
+var slideIndex 
 
 
